@@ -11,4 +11,7 @@ The code is two parts,
   combined.csv file 
 - The iPython Notebook ML-Capstone-Saudi-Stocks.ipynb, which has the rest of the code
 - an index of the data is provided in dataindex.txt
+<<<<<<< HEAD
+=======
 
+>>>>>>> 01fa87077a4de2cd4c7746d73fdaccdfa88001ae
