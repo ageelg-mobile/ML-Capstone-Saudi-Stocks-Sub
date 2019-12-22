@@ -3,7 +3,7 @@ ML Engineer Capstone Project - Saudi Stocks
 Machine Learning Nanodegree - Capstone Proposal
 Using Machine Learning to Predict Saudi Stock Performance
 1st December 2019
-Proposal review URL https://review.udacity.com/#!/reviews/2044772
+
 
 Code Instructions
 The code is two parts,
